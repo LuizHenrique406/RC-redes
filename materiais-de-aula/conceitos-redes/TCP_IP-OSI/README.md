@@ -1,22 +1,22 @@
 # Modelo TCP/IP e Modelo OSI
 ## Qual a diferença?
 ### OSI (Open Systems Interconnecion)
-- descreve como os dados são transmitidos em uma rede de computadores
-- criada na dácada de 80
-#### possui 7 camadas:
-- física
-- enlace de dados
-- redes
-- transporte
-- sessão
-- apresentação
-- aplicação
+- Descreve como os dados são transmitidos em uma rede de computadores
+- Criada na dácada de 80
+#### Possui 7 camadas:
+- Física
+- Enlace de Dados
+- Redes
+- Transporte
+- Sessão
+- Apresentação
+- Aplicação
 ### TCP/IP:
-- conjunto de protocolos que sustenta a comunicação na internet
-- prático
-#### poussi 4 camadas:
-- transporte
-- redes
-- enlace de dados
-- aplicação (combianda com apresentação e sessão)
-- (física)
+- Conjunto de protocolos que sustenta a comunicação na internet
+- Prático
+#### Poussi 4 camadas:
+- Transporte
+- Redes
+- Enlace de Dados
+- Aplicação (Combianda com apresentação e sessão)
+- (Física)
