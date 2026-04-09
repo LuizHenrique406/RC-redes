@@ -4,19 +4,19 @@
 - Descreve como os dados são transmitidos em uma rede de computadores
 - Criada na dácada de 80
 #### Possui 7 camadas:
-- Física
-- Enlace de Dados
-- Redes
-- Transporte
-- Sessão
+- Aplicação 
 - Apresentação
-- Aplicação
+- Sessão
+- Transporte
+- Rede
+- Enlace de Dados
+- Física
 ### TCP/IP:
 - Conjunto de protocolos que sustenta a comunicação na internet
 - Prático
-#### Poussi 4 camadas:
+#### Poussi 5 camadas:
+- Aplicação (Combianda com apresentação e sessão) 
 - Transporte
-- Redes
+- Rede
 - Enlace de Dados
-- Aplicação (Combianda com apresentação e sessão)
-- (Física)
+- Física
